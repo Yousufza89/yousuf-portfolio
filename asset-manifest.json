@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yousuf-portfolio/static/css/main.fa70b476.css",
+    "main.js": "/yousuf-portfolio/static/js/main.343aff13.js",
+    "static/js/453.1407b060.chunk.js": "/yousuf-portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/yousuf-portfolio/index.html",
+    "main.fa70b476.css.map": "/yousuf-portfolio/static/css/main.fa70b476.css.map",
+    "main.343aff13.js.map": "/yousuf-portfolio/static/js/main.343aff13.js.map",
+    "453.1407b060.chunk.js.map": "/yousuf-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa70b476.css",
+    "static/js/main.343aff13.js"
+  ]
+}
