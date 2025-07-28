@@ -33,9 +33,9 @@ const WhyHireMe: React.FC = () => {
   ];
 
   const metrics = [
-    { value: '20+', label: 'GitHub Repos' },
+    { value: '15+', label: 'GitHub Repos' },
     { value: '3', label: 'Deep Learning Projects' },
-    { value: '5+', label: 'Years Experience' },
+    { value: '2+', label: 'Years Experience' },
   ];
 
   return (
