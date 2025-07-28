@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yousu.github.io/website",
+  "homepage": "https://yousufza89.github.io/yousuf-portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@headlessui/react": "^1.7.17",
