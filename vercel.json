@@ -6,3 +6,9 @@
     "CI": "false"
   }
 }
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
+
