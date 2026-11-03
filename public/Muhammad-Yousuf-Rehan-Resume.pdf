@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1833 >>
+stream
+BT
+/F1 22 Tf 72 760 Td (Muhammad Yousuf Rehan) Tj
+/F1 12 Tf 72 736 Td (Software Engineer & Technical Generalist) Tj
+/F1 10 Tf 72 718 Td (Karachi, Pakistan | +92 331 2448318 | yousufrehan.04@gmail.com) Tj
+/F1 14 Tf 72 688 Td (Summary) Tj
+/F1 10 Tf 72 672 Td (Computer Science graduate with experience across full-stack engineering, applied AI,) Tj
+/F1 10 Tf 72 660 Td (automation, and quality assurance. Focused on shipping reliable product features and) Tj
+/F1 10 Tf 72 648 Td (building systems that connect architecture, testing, and decision-making.) Tj
+/F1 14 Tf 72 620 Td (Core Skills) Tj
+/F1 10 Tf 72 606 Td (Next.js, TypeScript, React, Node.js, Python, SQL, PostgreSQL, Supabase, Docker,) Tj
+/F1 10 Tf 72 594 Td (Tailwind CSS, REST APIs, Git, CI/CD, Selenium, PyTorch, Machine Learning, QA.) Tj
+/F1 14 Tf 72 566 Td (Experience) Tj
+/F1 11 Tf 72 552 Td (Junior Full Stack Developer | Swenta Globals | Feb 2026 - May 2026) Tj
+/F1 10 Tf 72 538 Td (- Built multi-tenant inventory, order, and budgeting workflows in Next.js and React.) Tj
+/F1 10 Tf 72 526 Td (- Designed PostgreSQL-backed role-based dashboards and automation for branch operations.) Tj
+/F1 10 Tf 72 514 Td (- Integrated ML-driven forecasting and testing workflows with Selenium and QA validation.) Tj
+/F1 11 Tf 72 492 Td (Junior Developer | Basil Innovations Ltd. | Jan 2023 - May 2024) Tj
+/F1 10 Tf 72 478 Td (- Developed backend services and APIs using Python and Node.js for production products.) Tj
+/F1 10 Tf 72 466 Td (- Contributed to relational schema design, containerization, and CI/CD workflows.) Tj
+/F1 14 Tf 72 438 Td (Education) Tj
+/F1 11 Tf 72 424 Td (FAST-NUCES, Karachi | B.S. Computer Science | 2026) Tj
+/F1 10 Tf 72 396 Td (Portfolio: https://yousuf-portfolio-current.vercel.app) Tj
+/F1 10 Tf 72 384 Td (GitHub: https://github.com/Yousufza89) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002126 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2196
+%%EOF
